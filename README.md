@@ -5,7 +5,7 @@ Implementation of **Quality-Aware Network for Plant Parsing**
 In this repository, we release the QANet code in Pytorch.
 
 - QANet architecture:
-<p align="center"><img width="90%" src="docs/architecture.png" /></p>
+<p align="center"><img width="90%" src="docs/Architecture.png" /></p>
 
 
 ## Installation
