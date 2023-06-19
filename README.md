@@ -26,9 +26,9 @@ Please follow [DATA_PREPARE.md] to download training and evaluating data.
 
 **QANet On Plant parsing dataset**
 
-|  Backbone  | mIoU | APp/APp50/PCP50 |  APr/APr50 | DOWNLOAD |
-|:----------:|:----:|:---------------:|:----------:| :-------:|
-|  ResNet50  | 62.9 | 60.1/74.3/68.9  | 56.2/63.5  | [GoogleDrive](https://drive.google.com/drive/folders/1DEqkkTKCbAvLXhJeoy2NC5CYZlr41Wak?usp=sharing) |        |
+|  Backbone  | DOWNLOAD |
+|:----------:|:--------:|
+|  ResNet50  | [GoogleDrive](https://drive.google.com/drive/folders/1DEqkkTKCbAvLXhJeoy2NC5CYZlr41Wak?usp=sharing) |        
 
 please put the pretrained weights in `QANet/weights`
 
