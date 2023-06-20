@@ -48,4 +48,5 @@ python tools/test_net_all.py --cfg ckpts/CIHP/QANet/QANet_R-50c_512x384_1x/QANet
 ```
 
 ## License
-QANet is released under the [MIT license](https://github.com/soeaver/QANet/blob/master/LICENSE).
+QANet is released under the [MIT license](https://github.com/soeaver/QANet/blob/master/LICENSE). 
+And the code is adapted from [QANet Human parsing](https://github.com/soeaver/QANet.git)
